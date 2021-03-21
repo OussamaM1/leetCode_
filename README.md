@@ -8,3 +8,5 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./Java/src/1470_ShuffleTheArray/ShuffletheArray.java)
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](./Java/src/1512_NumberofGoodPairs/NumberofGoodPairs.java)
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./Java/src/771_JewelsAndStones/JewelsAndStones.java)
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Java](./Java/src/1603_DesignParkingSystem/DesignParkingSystem.java)
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./Java/src/1365_HowManyNumbersAreSmallerThantheCurrentNumber/HowManyNumbersAreSmallerThantheCurrentNumber.java)
