@@ -6,3 +6,4 @@
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Java/src/1108_DefangingAnIPAddress/DefangingAnIPAddress.java)
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](./Java/src/1431_KidsWiththeGreatestNumberofCandies/KidsWiththeGreatestNumberofCandies.java)
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./Java/src/1470_ShuffleTheArray/ShuffletheArray.java)
+|1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](./Java/src/1512_NumberofGoodPairs/NumberofGoodPairs.java)
