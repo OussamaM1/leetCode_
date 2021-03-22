@@ -15,3 +15,4 @@
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./Java/src/1281_SubtractTheProductAndSumOfDigitsOfAnInteger/SubtractTheProductAndSumOfDigitsOfAnInteger.java)
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](./Java/src/1672_RichestCustomerWealth/RichestCustomerWealth.java)
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./Java/src/1342_NumberOfStepsToReduceANumberToZero/NumberOfStepsToReduceANumberToZero.java)
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Java](./Java/src/1678_GoalParserInterpretation/GoalParserInterpretation.java)
