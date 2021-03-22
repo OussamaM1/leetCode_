@@ -17,3 +17,4 @@
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./Java/src/1342_NumberOfStepsToReduceANumberToZero/NumberOfStepsToReduceANumberToZero.java)
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Java](./Java/src/1678_GoalParserInterpretation/GoalParserInterpretation.java)
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Java](./Java/src/1720_DecodeXORedArray/DecodeXORedArray.java)
+|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](./Java/src/1389_CreateTargetArrayIntheGivenOrder/CreateTargetArrayIntheGivenOrder.java)
