@@ -13,3 +13,4 @@
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Java](./Java/src/1773_CountItemsMatchingARule/CountItemsMatchingARule.java)
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Java](./Java/src/1528_ShuffleString/ShuffleString.java)
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./Java/src/1281_SubtractTheProductAndSumOfDigitsOfAnInteger/SubtractTheProductAndSumOfDigitsOfAnInteger.java)
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](./Java/src/1672_RichestCustomerWealth/RichestCustomerWealth.java)
