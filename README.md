@@ -12,3 +12,4 @@
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./Java/src/1365_HowManyNumbersAreSmallerThantheCurrentNumber/HowManyNumbersAreSmallerThantheCurrentNumber.java)
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Java](./Java/src/1773_CountItemsMatchingARule/CountItemsMatchingARule.java)
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Java](./Java/src/1528_ShuffleString/ShuffleString.java)
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./Java/src/1281_SubtractTheProductAndSumOfDigitsOfAnInteger/SubtractTheProductAndSumOfDigitsOfAnInteger.java)
