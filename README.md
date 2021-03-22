@@ -10,3 +10,4 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./Java/src/771_JewelsAndStones/JewelsAndStones.java)
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Java](./Java/src/1603_DesignParkingSystem/DesignParkingSystem.java)
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./Java/src/1365_HowManyNumbersAreSmallerThantheCurrentNumber/HowManyNumbersAreSmallerThantheCurrentNumber.java)
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Java](./Java/src/1773_CountItemsMatchingARule/CountItemsMatchingARule.java)
