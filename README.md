@@ -20,3 +20,4 @@
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](./Java/src/1389_CreateTargetArrayIntheGivenOrder/CreateTargetArrayIntheGivenOrder.java)
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](./Java/src/1221_SplitAStringinBalancedStrings/SplitAStringinBalancedStrings.java)
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | [Java](./Java/src/1486_XOROperationInAnArray/XOROperationInAnArray.java)
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](./Java/src/938_RangeSumOfBST/RangeSumOfBST.java)
