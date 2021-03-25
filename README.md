@@ -25,3 +25,4 @@
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Java](./Java/src/1662_CheckIfTwoStringArraysareEquivalent/CheckIfTwoStringArraysareEquivalent.java)
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Java](./Java/src/1800_MaximumAscendingSubarraySum/MaximumAscendingSubarraySum.java)
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) | [Java](./Java/src/1749_MaximumAbsoluteSumofAnySubarray/MaximumAbsoluteSumofAnySubarray.java)
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Java/src/1_TwoSum/TwoSum.java)
