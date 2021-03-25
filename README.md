@@ -24,3 +24,4 @@
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Java](./Java/src/1614_MaximumNestingDepthoftheParentheses/MaximumNestingDepthoftheParentheses.java)
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Java](./Java/src/1662_CheckIfTwoStringArraysareEquivalent/CheckIfTwoStringArraysareEquivalent.java)
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Java](./Java/src/1800_MaximumAscendingSubarraySum/MaximumAscendingSubarraySum.java)
+|1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) | [Java](./Java/src/1749_MaximumAbsoluteSumofAnySubarray/MaximumAbsoluteSumofAnySubarray.java)
