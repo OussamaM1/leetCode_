@@ -26,3 +26,4 @@
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Java](./Java/src/1800_MaximumAscendingSubarraySum/MaximumAscendingSubarraySum.java)
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) | [Java](./Java/src/1749_MaximumAbsoluteSumofAnySubarray/MaximumAbsoluteSumofAnySubarray.java)
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Java/src/1_TwoSum/TwoSum.java)
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Java](./Java/src/1684_CountTheNumberofConsistentStrings/CountTheNumberofConsistentStrings.java)
