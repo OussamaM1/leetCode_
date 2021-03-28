@@ -5,7 +5,7 @@ class Solution {
         Stack<Character> st = new Stack<Character>();
         for(char c : s.toCharArray()){
             if(c =='(' || c =='{' || c == '[') st.push(c);
-            else if(st.empty()|| (c==')'&&st.peek()!='(')||                                         (c=='}'&& st.peek()!='{')|| (c==']'&& st.peek()!='['))
+            else if(st.empty()|| (c==')'&&st.peek()!='(')|| (c=='}'&& st.peek()!='{')|| (c==']'&& st.peek()!='['))
                         return false;
             else st.pop();
                 
