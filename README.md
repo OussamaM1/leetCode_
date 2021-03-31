@@ -30,3 +30,4 @@
 |7|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./Java/src/9_PalindromeNumber/PalindromeNumber.java)
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./Java/src/20_ValidParentheses/ValidParentheses.java)
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./Java/src/26_RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.java)
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./Java/src/53_MaximumSubarray/MaximumSubarray.java)
