@@ -32,3 +32,4 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./Java/src/26_RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.java)
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./Java/src/53_MaximumSubarray/MaximumSubarray.java)
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./Java/src/27_RemoveElement/RemoveElement.java)
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Java](./Java/src/202_HappyNumber/HappyNumber.java)
