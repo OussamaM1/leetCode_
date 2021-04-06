@@ -34,3 +34,4 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./Java/src/27_RemoveElement/RemoveElement.java)
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Java](./Java/src/202_HappyNumber/HappyNumber.java)
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./Java/src/204_CountPrimes/CountPrimes.java)
+|1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Java](./Java/src/1534_CountGoodTriplets/CountGoodTriplets.java)
