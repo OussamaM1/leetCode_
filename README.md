@@ -35,3 +35,4 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Java](./Java/src/202_HappyNumber/HappyNumber.java)
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./Java/src/204_CountPrimes/CountPrimes.java)
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Java](./Java/src/1534_CountGoodTriplets/CountGoodTriplets.java)
+|66|[Plus One](https://leetcode.com/problems/plus-one) | [Java](./Java/src/66_PlusOne/PlusOne.java)
