@@ -37,3 +37,4 @@
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Java](./Java/src/1534_CountGoodTriplets/CountGoodTriplets.java)
 |66|[Plus One](https://leetcode.com/problems/plus-one) | [Java](./Java/src/66_PlusOne/PlusOne.java)
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](./Java/src/896_MonotonicArray/MonotonicArray.java)
+|1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Java](./Java/src/1812_DetermineColorofaChessboardSquare/DetermineColorofaChessboardSquare.java)
