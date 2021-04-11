@@ -39,3 +39,4 @@
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](./Java/src/896_MonotonicArray/MonotonicArray.java)
 |1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Java](./Java/src/1812_DetermineColorofaChessboardSquare/DetermineColorofaChessboardSquare.java)
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./Java/src/167_TwoSumII/TwoSumII.java)
+|1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Java](./Java/src/1323_Maximum69Number/Maximum69Number.java)
