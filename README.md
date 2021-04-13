@@ -42,3 +42,4 @@
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Java](./Java/src/1323_Maximum69Number/Maximum69Number.java)
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./Java/src/344_ReverseString/ReverseString.java)
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./Java/src/409_LongestPalindrome/LongestPalindrome.java)
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./Java/src/412_FizzBuzz/FizzBuzz.java)
