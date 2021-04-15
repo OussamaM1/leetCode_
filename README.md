@@ -43,4 +43,3 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./Java/src/344_ReverseString/ReverseString.java)
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./Java/src/409_LongestPalindrome/LongestPalindrome.java)
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./Java/src/412_FizzBuzz/FizzBuzz.java)
-|1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Java](./Java/src/1394_FindLuckyIntegerinanArray/FindLuckyIntegerinanArray.java)
