@@ -44,3 +44,4 @@
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./Java/src/409_LongestPalindrome/LongestPalindrome.java)
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./Java/src/412_FizzBuzz/FizzBuzz.java)
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./Java/src/88_MergeSortedArray/MergeSortedArray.java)
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Java](./Java/src/706_DesignHashMap/DesignHashMap.java)
