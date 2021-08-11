@@ -16,7 +16,7 @@
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](./Java/src/1672_RichestCustomerWealth/RichestCustomerWealth.java), [golang](./golang/1672_RichestCustomerWealth/richestCustomerWealth.go)
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./Java/src/1342_NumberOfStepsToReduceANumberToZero/NumberOfStepsToReduceANumberToZero.java), [golang](./golang/1342_NumberOfStepsToReduceANumberToZero/numberOfStepsToReduceANumberToZero.go)
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Java](./Java/src/1678_GoalParserInterpretation/GoalParserInterpretation.java), [golang](./golang/1678_GoalParserInterpretation/goalParserInterpretation.go)
-|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Java](./Java/src/1720_DecodeXORedArray/DecodeXORedArray.java)
+|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Java](./Java/src/1720_DecodeXORedArray/DecodeXORedArray.java), [golang](./golang/1720_DecodeXORedArray/decodeXORedArray.go)
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](./Java/src/1389_CreateTargetArrayIntheGivenOrder/CreateTargetArrayIntheGivenOrder.java)
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](./Java/src/1221_SplitAStringinBalancedStrings/SplitAStringinBalancedStrings.java)
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | [Java](./Java/src/1486_XOROperationInAnArray/XOROperationInAnArray.java)
