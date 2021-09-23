@@ -46,3 +46,4 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./Java/src/88_MergeSortedArray/MergeSortedArray.java)
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Java](./Java/src/706_DesignHashMap/DesignHashMap.java)
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](./Java/src/1313_DecompressRunLengthEncodedList/DecompressRunLengthEncodedList.java)
+|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](./Java/src/1920_BuildArrayfromPermutation/BuildArrayfromPermutation.java/)
