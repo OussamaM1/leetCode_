@@ -1,5 +1,7 @@
 # leetCode
 
+This repository is a notebook consisting of all my solutions to questions from LeetCode.
+
 | #   | Title | Solution |
 | --- | ----- | -------- |
 |1480|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](./Java/src/1480_RunningSumOf1dArray/RunningSumOf1dArray.java), [golang](./golang/1480_RunningSumOf1dArray/runningSumOf1dArray.go)
