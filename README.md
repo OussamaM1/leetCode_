@@ -51,3 +51,4 @@ This repository is a notebook consisting of all my solutions to questions from L
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](./Java/src/1920_BuildArrayfromPermutation/BuildArrayfromPermutation.java/)
 |28|[Implement StrStr()](https://leetcode.com/problems/implement-strstr/) | [Java](./Java/src/28_ImplementStrStr()/ImplementStrStr.java/)
 |69|[Add binary](https://leetcode.com/problems/add-binary/) | [Java](./Java/src/67_AddBinary/AddBinary.java/)
+|122|[Path sum](https://leetcode.com/problems/path-sum/) | [Java](./Java/src/122_PathSum/PathSum.java)
