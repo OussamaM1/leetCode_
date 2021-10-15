@@ -55,3 +55,4 @@ This repository is a notebook consisting of all my solutions to questions from L
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./Java/src/1929_ConcatenationOfArray/ConcatenationOfArray.java)
 |2011| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [Java](./Java/src/2011_FinalValueOfVariableAfterPerformingOperations/FinalValueOfVariableAfterPerformingOperations.java)
 |136| [Single Number](https://leetcode.com/problems/single-number/) | [Java](./Java/src/136_SingleNumber/SingleNumber.java)
+|575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./Java/src/575_DistributeCandies/DistributeCandies.java)
