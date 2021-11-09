@@ -58,4 +58,4 @@ This repository is a notebook consisting of all my solutions to questions from L
 |575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./Java/src/575_DistributeCandies/DistributeCandies.java)
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./Java/src/217_ContainsDuplicate/ContainsDuplicate.java)
 |1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Java](./Java/src/1859_SortingtheSentence/SortingtheSentence.java)
-|1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Java](./Java/src/1704_DetermineifStringHalvesAreAlike)
+|1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Java](./Java/src/1704_DetermineifStringHalvesAreAlike.java)
